@@ -1,4 +1,4 @@
-<h1>This is a hotel management system</h1>
+<h1>This is a hotel Reservation system</h1>
 <p> 
   This is 4 members web application project and this is my part of the project. I developed the dining reservation management system.
   The front-end of the project developed by using HTML,Bootstrap,Javascript and Back-end developed by using JAVA.
