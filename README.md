@@ -9,3 +9,9 @@
   <li>Customers can cancel and make modification for their reservations.</li>
   <li>The reservations are view in customers accounts.</li>
 </ul>
+
+![image alt](https://github.com/sachin4real/Hotel-Reservation-System/blob/main/ScreenShots/Screenshot%20(3).png)
+![image alt](https://github.com/sachin4real/Hotel-Reservation-System/blob/main/ScreenShots/Screenshot%20(5).png)
+![image alt](https://github.com/sachin4real/Hotel-Reservation-System/blob/main/ScreenShots/Screenshot%20(6).png)
+![image alt](https://github.com/sachin4real/Hotel-Reservation-System/blob/main/ScreenShots/Screenshot%20(7).png)
+![image alt]()
